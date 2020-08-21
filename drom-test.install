@@ -1,0 +1,10 @@
+lib: [
+  "_build/install/default/lib/drom-test/META"
+  "_build/install/default/lib/drom-test/dune-package"
+]
+bin: [
+  "_build/install/default/bin/drom-test"
+]
+doc: [
+  "_build/install/default/doc/drom-test/README.md"
+]
