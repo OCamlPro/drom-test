@@ -2,7 +2,7 @@
 authors = ["Fabrice Le Fessant <fabrice.le_fessant@origin-labs.com>"]
 copyright = "OCamlPro SAS & Origin Labs SAS"
 description = "The drom-test OCaml project"
-edition = "4.10.0"
+edition = "4.07.1"
 github-organization = "ocamlpro"
 library = false
 name = "drom-test"

@@ -13,8 +13,6 @@ jobs:
           - macos-latest
           - ubuntu-latest
           - windows-latest
-        # Please keep the list in sync with the minimal version of OCaml in
-        # dune-project, dune.opam.template and bootstrap.ml
         ocaml-version:
           - 4.10.0
         skip_test:
@@ -33,8 +31,6 @@ jobs:
             os: ubuntu-latest
             skip_test: true
 
-    # We don't run tests on all versions of the Windows environment and on
-    # 4.02.3 and 4.07.1 in other environments
     env:
       # Note that this environment variable is recognized as a string by GitHub
       # Actions, so the following doesn't actually work:

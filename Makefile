@@ -29,3 +29,6 @@ install:
 
 dev-deps:
 	opam install -y ${DEV_DEPS}
+
+test:
+	dune build @runtest
