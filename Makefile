@@ -8,9 +8,6 @@ all:
 build-deps:
 	opam install --deps-only ./drom-test.opam
 
-dev-deps:
-	opam install -y ${DEV_DEPS}
-
 init:
 	git submodule init
 	git submodule update
@@ -26,3 +23,9 @@ view:
 
 fmt:
 	dune build @fmt
+
+install:
+	dune install
+
+dev-deps:
+	opam install -y ${DEV_DEPS}
