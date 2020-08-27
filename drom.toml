@@ -1,0 +1,38 @@
+[project]
+authors = ["Fabrice Le Fessant <fabrice.le_fessant@origin-labs.com>"]
+copyright = "OCamlPro SAS & Origin Labs SAS"
+dir = "src"
+edition = "4.10.0"
+github-organization = "ocamlpro"
+kind = "program"
+license = "LGPL2"
+min-edition = "4.10.0"
+mode = "binary"
+name = "drom-test"
+synopsis = "The drom-test project"
+version = "0.1.0"
+
+# keys that you could also define:
+# archive = "...archive..."
+# dev-repo = "...dev-repo..."
+# bug-reports = "...bug-reports..."
+# doc-api = "...doc-api..."
+# doc-gen = "...doc-gen..."
+# homepage = "...homepage..."
+
+[project]
+description = """
+This is the description
+of the drom-test OCaml project
+"""
+
+[drom]
+skip = ""
+
+[dependencies]
+
+[tools]
+dune = "2.6.0"
+[project]
+wrapped = true
+
