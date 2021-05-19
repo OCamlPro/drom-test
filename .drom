@@ -1,0 +1,96 @@
+# Keep this file in your GIT repo to help drom track generated files
+
+# hash of toml configuration files
+# used for generation of all files
+257d6a0fbfdb6ea0ae1b26bc0494e1bc:.
+# end context for .
+
+# begin context for .github/workflows/doc-deploy.yml
+# file .github/workflows/doc-deploy.yml
+36ec46bb2594b24258f7e8bb35178af0:.github/workflows/doc-deploy.yml
+# end context for .github/workflows/doc-deploy.yml
+
+# begin context for .github/workflows/workflow.yml
+# file .github/workflows/workflow.yml
+601a75fe4416cc313a7001c01fc2fc22:.github/workflows/workflow.yml
+# end context for .github/workflows/workflow.yml
+
+# begin context for .gitignore
+# file .gitignore
+8e184a1d1790bcf2e7ae955740b9a95e:.gitignore
+# end context for .gitignore
+
+# begin context for CHANGES.md
+# file CHANGES.md
+c01d7bf19acabacbb082b452bbd79d57:CHANGES.md
+# end context for CHANGES.md
+
+# begin context for LICENSE.md
+# file LICENSE.md
+02f5d892afcdc564e5fb067198a06740:LICENSE.md
+# end context for LICENSE.md
+
+# begin context for Makefile
+# file Makefile
+619ab3b19c327fdf5909fdcc21478396:Makefile
+# end context for Makefile
+
+# begin context for README.md
+# file README.md
+8749524655f3ee2146d1f46893d76c9c:README.md
+# end context for README.md
+
+# begin context for drom-test.opam
+# file drom-test.opam
+fbb6df171f57fed398dd28cca5962bfa:drom-test.opam
+# end context for drom-test.opam
+
+# begin context for drom.toml
+# file drom.toml
+bd1afbfe46758c700793d61a5c76f1e2:drom.toml
+# end context for drom.toml
+
+# begin context for dune
+# file dune
+0d57afa9756f983af2551804954af609:dune
+# end context for dune
+
+# begin context for dune-project
+# file dune-project
+e25ae120b3031d4cc437e29b4245b020:dune-project
+# end context for dune-project
+
+# begin context for scripts/after.sh
+# file scripts/after.sh
+1112fbe7067fce342365a25613b5659d:scripts/after.sh
+# end context for scripts/after.sh
+
+# begin context for scripts/before.sh
+# file scripts/before.sh
+ae050b3099ac0b43d7c7f4295f6b2319:scripts/before.sh
+# end context for scripts/before.sh
+
+# begin context for scripts/copy-bin.sh
+# file scripts/copy-bin.sh
+bb3a9d286f0dc64021db4194427263ee:scripts/copy-bin.sh
+# end context for scripts/copy-bin.sh
+
+# begin context for src/drom-test/dune
+# file src/drom-test/dune
+1f526736498211a91190475e5ad318c2:src/drom-test/dune
+# end context for src/drom-test/dune
+
+# begin context for src/drom-test/main.ml
+# file src/drom-test/main.ml
+afa67fd8aa6eaae7e670e19f9329872b:src/drom-test/main.ml
+# end context for src/drom-test/main.ml
+
+# begin context for src/drom-test/package.toml
+# file src/drom-test/package.toml
+653826dd8170f37be5ba16545f33cd51:src/drom-test/package.toml
+# end context for src/drom-test/package.toml
+
+# begin context for src/drom-test/version.mlt
+# file src/drom-test/version.mlt
+e5152b4b8b0489050db1e38339e55a7e:src/drom-test/version.mlt
+# end context for src/drom-test/version.mlt
